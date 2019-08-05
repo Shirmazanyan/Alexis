@@ -1,0 +1,641 @@
+@media screen and (max-width: 1440px){
+
+    .video .overlay_video .fa-play-circle{
+        margin-left: 598px;
+        margin-top: 56px;
+    }
+}
+@media screen and (max-width: 1220px){
+    body{
+        overflow-x: hidden;
+    }
+
+    .video .overlay_video .fa-play-circle{
+        margin-left: 558px;
+
+    }
+    .testimonials .overlay_testimonials{
+        display: none;
+    }
+    .testimonials .container .slider_objects .person_t{
+        display: none;
+    }
+    #slider{
+        display: none;
+    }
+
+}
+
+
+@media screen and (max-width: 1024px){
+    #page-nav ul li .t_l{
+        font-size: 11px;
+        margin-right: -12px;
+    }
+    .about-us .container .box2{
+        margin-left: 405px;
+    }
+    .about-us .container .sp{
+        display: none;
+    }
+    .about-us .container .box2 h4{
+        margin-left: 147px;
+        margin-top: -98px;
+    }
+    .focus .container .subtitle{
+        margin-left: 354px;
+    }
+    .video .overlay_video .fa-play-circle{
+        margin-left: 458px;
+    }
+    .portfolio .container .subtitle{
+        margin-left: 384px;
+
+    }
+    .portfolio .container .row .col-md-4 .card .overlay_card{
+        height: 200px;
+    }
+    .team .container .subtitle{
+        margin-left: 370px;
+    }
+    .team .container .persons .col-md-3 .tooltip{
+        width: 204px;
+    }
+    .work-steps .container .subtitle{
+        margin-left: 356px;
+    }
+    .work-steps .container .colection-box .card{
+        margin-left: 129px;
+    }
+    .pricing .container .row .col-md-4 .cart{
+        margin-left: 0;
+    }
+    .select .container .subtitle{
+        margin-left: 313px;
+    }
+    .blog .container .subtitle{
+        margin-left: 368px;
+    }
+    .header .overlay_header .icons .icon{
+        display: none;
+    }
+    .header .overlay_header .icon_texts{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+
+
+
+@media screen and (max-width: 768px){
+    #page-nav ul{
+        margin: 0 auto;
+        text-align: center;
+    }
+    #page-nav ul li .logo{
+        text-align: center;
+        margin-right: 137px;
+    }
+    .about-us .container .box1{
+        margin-left: 0;
+    }
+    .about-us .container .box2{
+        margin-left: 108px;
+    }
+    .focus .container .subtitle{
+        margin-left: 153px;
+
+    }
+    .focus .container .cards{
+        display: flex;
+        flex-direction: column;
+        margin: 0 148px;
+        text-align: center;
+    }
+    .video .overlay_video .fa-play-circle{
+        margin-left: 328px;
+    }
+    .portfolio .container .subtitle{
+        margin-left: 173px;
+
+    }
+    .portfolio .container .row .col-md-4 .card:hover .overlay_card{
+        display: none;
+    }
+    .team .container .subtitle{
+        margin-left: 156px;
+    }
+    .team .container .persons .col-md-3:hover .tooltip{
+        display: none;
+    }
+    .team .container .persons .col-md-3{
+        width: 50%;
+    }
+    .work-steps .container .subtitle{
+        margin-left: 142px;
+    }
+    .work-steps .container .box-colection{
+        margin: 80px 198px;
+    }
+    .pricing .container .subtitle{
+        margin-left: 132px;
+
+    }
+    .pricing .container .row .col-md-4 .cart{
+        margin-left: 104px;
+    }
+    .select .container .subtitle{
+        margin-left: 104px;
+    }
+    .select .container .features .col-md-4 .img_info{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .select .container .features .col-md-4 .f_info{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .select .container .features .col-md-4 .img_info img{
+        margin-left: 30px;
+        margin-bottom: 10px;
+    }
+    .blog .container .subtitle{
+        margin-left: 152px;
+    }
+    .blog .container .card-columns .card .card-body .card-title{
+        font-size: 13px;
+        margin-left: -196px;
+    }
+    .blog .container .card-columns .card .card-body .card-text{
+        font-size: 12px;
+        max-width: 89px;
+        margin-left: -36px;
+    }
+    .card-columns .card .blockquote{
+        text-align: center;
+        margin-left: -76px;
+        max-width: 139px;
+    }
+.info_info{
+    display: none;
+}
+    .text-muted{
+        display: none;
+    }
+    .blockquote-footer{
+        display: none;
+    }
+    .subscribe .container .inp_btn .inp_email{
+        margin-left: -280px;
+    }
+    .get_touch .container .text_area{
+        width: 302px;
+    }
+    .get_touch .container .mini_footer .logo{
+        display: none;
+    }
+    .soc_icons{
+        width: 136px;
+    }
+    .header .overlay_header .icons .icon{
+        display: none;
+    }
+    .header .overlay_header .icon_texts{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .header .overlay_header .icons .icon{
+        display: none;
+    }
+    .header .overlay_header .icon_texts{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .header .overlay_header .title_t{
+        font-size: 20px;
+    }
+    .header .overlay_header .icons{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .header .overlay_header .icons{
+        display: flex;
+        flex-direction: column;
+        margin: -64px 96px;
+        text-align: center;
+    }
+    .header .overlay_header .icon_texts{
+        display: none;
+    }
+    .header .overlay_header .icons .icon .fa-dollar-sign{
+        margin-left: -15px;
+    }
+    .header .overlay_header .icons .icon .fa-clock{
+        margin-left: -13px;
+    }
+    .header .overlay_header .icons .icon .fa-check{
+        margin-left: -13px;
+    }
+    .about-us .container .box1{
+        display: none;
+    }
+    .about-us .container .box2{
+        width: 386px;
+        height: 400px;
+        margin-top: 95px;
+        margin-left: -4px;
+    }
+    .about-us .container .box2 p{
+        font-size: 8px;
+        max-width: 213px;
+    }
+    .about-us .container .box2 h4{
+        font-size: 40px;
+    }
+    .focus .container .subtitle{
+        margin-left: 107px;
+        font-size: 40px;
+    }
+    .focus .container .cards{
+        margin: 0 74px;
+    }
+    .video .overlay_video .fa-play-circle{
+        margin-left: 159px;
+    }
+    .portfolio .container .subtitle{
+        font-size: 40px;
+        margin-left: 123px;
+    }
+    .portfolio .container .row{
+        margin-left: 46px;
+    }
+    .team .container .subtitle{
+        font-size: 40px;
+        margin-left: 119px;
+    }
+    .counter .container .row{
+        display: none;
+    }
+    .work-steps .container .subtitle{
+        font-size: 40px;
+        margin-left: 97px;
+    }
+    .work-steps .container .box-colection{
+        margin: 80px 37px;
+    }
+    .work-steps .container .colection-box .card{
+        margin-left: -200px;
+    }
+    .work-steps{
+        overflow-x: hidden;
+    }
+    .pricing .container .subtitle{
+        font-size: 40px;
+        margin-left: 89px;
+    }
+    .pricing .container .row .col-md-4 .cart{
+        margin-left: 37px;
+    }
+    .select .container .subtitle{
+        font-size: 40px;
+        margin-left: 64px;
+    }
+    .select .container .start{
+        display: flex;
+        flex-direction: column;
+    }
+    .select .container .start .btn_start{
+        margin: 0 auto;
+    }
+    .blog .container .subtitle{
+        font-size: 40px;
+        margin-left: 113px;
+
+    }
+    .blog .container .card-columns .card .card-body{
+        text-align: center;
+        margin-left: 109px;
+    }
+    .subscribe .container .inp_btn{
+        margin-top: 70px;
+        width: 113px;
+        height: 50px;
+        display: flex;
+        margin-left: 274px;
+    }
+    .subscribe .container .inp_btn .btn_subscribe{
+        font-size: 12px;
+    }
+    .subscribe .container .inp_btn .inp_email{
+        font-size: 12px;
+    }
+    .get_touch{
+        background-image: none;
+    }
+    .get_touch .container .subtitle{
+        font-size: 40px;
+    }
+    .info_touch{
+        margin-top: 20px;
+    }
+
+    .get_touch .container .mini_footer .container .info_footer .footer .subtitle_g{
+        font-size: 15px;
+        text-align: center;
+    }
+    .get_touch .container .mini_footer .container .info_footer .footer .subtitle_p{
+        font-size: 15px;
+        text-align: center;
+    }
+    .get_touch .container .mini_footer .container .info_footer .footer .subtitle_y{
+        font-size: 15px;
+        text-align: center;
+    }
+    .get_touch .container .mini_footer{
+        height: 330px;
+    }
+    .get_touch .container .mini_footer .container .info_footer{
+        display: flex;
+        flex-direction: column;
+    }
+    .get_touch .container .mini_footer .container .info_footer .footer .f_t{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 375px){
+    #page-nav ul li .logo{
+        text-align: center;
+        margin-right: 52px;
+        margin-left: 47px;
+    }
+    .header .overlay_header .icons .icon{
+        display: none;
+    }
+    .about-us .container .box2{
+        width: 329px;
+        height: 366px;
+        margin-top: 95px;
+        margin-left: -4px;
+    }
+    .focus .container .subtitle{
+        font-size: 30px;
+    }
+    .video .overlay_video .fa-play-circle{
+        margin-left: 131px;
+    }
+    .portfolio .container .subtitle{
+        font-size: 30px;
+    }
+    .team .container .subtitle{
+        font-size: 30px;
+    }
+    .work-steps .container .subtitle{
+        font-size: 30px;
+
+    }
+    .work-steps .container .colection-box .card{
+        position: absolute;
+        width: 33%;
+        margin: 0 auto;
+        text-align: center;
+        height: 284px;
+
+    }
+    .work-steps .container .colection-box{
+        height: 0;
+    }
+    .pricing .container .subtitle{
+        font-size: 30px;
+    }
+    .pricing .container .row .col-md-4 .cart{
+        margin-left: 12px;
+    }
+    .num_pic{
+        display: none;
+    }
+    .select .container .subtitle{
+        font-size: 30px;
+    }
+    .blog .container .subtitle{
+        font-size: 30px;
+    }
+    .blog .container .card-columns .card .card-body{
+        margin-left: 86px;
+    }
+    .subscribe .container .inp_btn{
+        margin-top: 70px;
+        width: 61px;
+        height: 50px;
+        display: flex;
+        margin-left: 274px;
+    }
+    .get_touch .container .subtitle{
+        font-size: 30px;
+    }
+    .info_touch{
+        margin-top: 20px;
+    }
+    .get_touch .container .mini_footer .container .f_logo{
+        margin-top: -22px;
+
+    }
+}
+
+@media screen and (max-width: 320px){
+    .about-us .container .box2 img{
+        display: none;
+    }
+    .about-us .container .box2{
+        width: 276px;
+        height: 366px;
+        margin-top: 95px;
+        margin-left: -4px;
+    }
+    .about-us .container .box2 h4{
+        font-size: 30px;
+        margin-left: 79px;
+    }
+    .about-us .container .box2 p{
+        font-size: 11px;
+        max-width: 213px;
+        margin-left: 30px;
+        margin-top: -50px;
+    }
+    .focus .container .img02{
+        display: none;
+    }
+    .focus{
+        padding-bottom: 100px;
+        background-color: #faf7f7;
+        padding-top: 106px;
+    }
+    .focus .container .subtitle{
+        font-size: 30px;
+        margin-left: 71px;
+        margin-top: -47px;
+    }
+    .focus .container .cards{
+        margin: 0 27px;
+    }
+    .video .overlay_video .fa-play-circle{
+        margin-left: 101px;
+    }
+    .portfolio .container .img03{
+        display: none;
+    }
+    .portfolio{
+        margin: 0;
+        padding-bottom: 100px;
+        padding-top: 103px;
+    }
+    .portfolio .container .subtitle{
+        margin-left: 85px;
+        margin-top: -48px;
+    }
+    .team .container .img04{
+        display: none;
+    }
+    .team{
+        padding-top: 107px;
+        padding-bottom: 400px;
+        margin: 0;
+        background-color: #fafafa;
+    }
+    .team .container .subtitle{
+        margin-left: 81px;
+        margin-top: -49px;
+    }
+    .team .container .persons{
+        display: flex;
+        flex-direction: column;
+        margin-left: -19px;
+        width: 231%;
+    }
+    .work-steps .container .img05{
+        display: none;
+    }
+    .work-steps {
+        margin: 0;
+        padding-top: 110px;
+        background: #fcffff;
+        overflow-y: hidden;
+    }
+    .work-steps .container .subtitle{
+        margin-left: 70px;
+        margin-top: -47px;
+    }
+    .work-steps .container .box-colection .img_work{
+        width: 272px;
+        height: 200px;
+        margin-top: 13px;
+    }
+    .work-steps .container .box-colection{
+        margin: 78px 0px;
+    }
+    .pricing .container .img06{
+        display: none;
+    }
+    .pricing{
+        padding-top: 116px;
+        background: #fafafa;
+        padding-bottom: 150px;
+    }
+    .pricing .container .subtitle{
+        margin-left: 64px;
+        margin-top: -51px;
+    }
+    .pricing .container .row .col-md-4 .cart{
+        width: 280px;
+        margin-left: 0;
+
+    }
+    .pricing .container .row .col-md-4 .buy-span1{
+        width: 280px;
+    }
+    .pricing .container .row .col-md-4 .buy-span2{
+        width: 280px;
+    }
+    .pricing .container .row .col-md-4 .buy-span3{
+        width: 280px;
+    }
+    .select .container .img08{
+        display: none;
+    }
+    .select{
+        padding-top: 110px;
+    }
+    .select .container .subtitle{
+        margin-left: 45px;
+        margin-top: -51px;
+
+    }
+    .select .container .features .col-md-4 .img_info{
+        margin-left: -35px;
+    }
+    .blog .container .img09{
+        display: none;
+    }
+    .blog{
+        padding-top: 110px;
+    }
+    .blog .container .subtitle{
+        margin-left: 80px;
+        margin-top: -49px;
+    }
+    .blog .container .card-columns .card .card-body{
+        margin-left: 57px;
+    }
+    .subscribe .container .inp_btn{
+        margin-top: 70px;
+        width: 6px;
+        height: 50px;
+        display: flex;
+        margin-left: 274px;
+    }
+    .get_touch .container .num10{
+        display: none;
+    }
+    .get_touch{
+        padding-top: 110px;
+    }
+    .get_touch .container .inp_inp{
+        width: 258px;
+    }
+    .get_touch .container .text_area{
+        width: 264px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
